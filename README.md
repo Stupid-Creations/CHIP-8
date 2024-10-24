@@ -4,10 +4,13 @@ This was my first time trying out making an emulator, so I tried out chip-8! I l
 Some ROMS running in the emulator 
 
 ![breakout](https://cloud-nbgnx3vrq-hack-club-bot.vercel.app/0breakout.png)
+
 Breakout in chip 8
 
 ![pong](https://cloud-nbgnx3vrq-hack-club-bot.vercel.app/1pong8.png)
+
 Pong!
 
 ![test](https://cloud-nbgnx3vrq-hack-club-bot.vercel.app/3tests.png)
+
 A test ROM to see if the emulator is properly emulating all the functions
